@@ -1,1 +1,1 @@
-# morphologic-variability
+# morph-var
